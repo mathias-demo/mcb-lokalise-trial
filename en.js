@@ -1,4 +1,4 @@
-var translations = {
+const translations = {
     "plural_key": {
         "one": "One user online.",
         "other": "%i users online."
