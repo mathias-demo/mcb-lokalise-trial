@@ -1,1 +1,4 @@
-Bonjour le monde
+const translation = {
+    LANGUAGE: "fr",
+    ME: "Bonjour le monde"
+}
