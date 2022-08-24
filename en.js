@@ -1,4 +1,4 @@
 var translations = {
-    LANGUAGE: "en",
-    ME: "Hello World"
+    "LANGUAGE": "en",
+    "ME": "Hello World"
 };
