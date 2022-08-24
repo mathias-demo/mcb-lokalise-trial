@@ -1,4 +1,6 @@
-var translations = {
-    "LANGUAGE": "en",
-    "ME": "Hello World"
+const translations = {
+    LANGUAGE: "en",
+    ME: "Hello World"
 };
+
+module.exports = translations;
